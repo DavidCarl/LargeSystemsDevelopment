@@ -5,14 +5,18 @@ import java.util.Collection;
 public class Booking {
     private PNRIdentifier pnr;
     private double price;
-    private long eTicketId;
+    private FFNCCIdenitfier ffncc;
     private Collection<Ticket> tickets;
+    private FlightRoute flightRoute;
+    private FlightRoute returnRoute;
 
-    public Booking(PNRIdentifier pnr, double price, long eTicketId, Collection<Ticket> tickets) {
+    public Booking(PNRIdentifier pnr, double price, FFNCCIdenitfier ffncc, Collection<Ticket> tickets, FlightRoute flightRoute, FlightRoute returnRoute) {
         this.pnr = pnr;
         this.price = price;
-        this.eTicketId = eTicketId;
+        this.ffncc = ffncc;
         this.tickets = tickets;
+        this.flightRoute = flightRoute;
+        this.returnRoute = returnRoute;
     }
 
     public Booking() {
@@ -34,12 +38,12 @@ public class Booking {
         this.price = price;
     }
 
-    public long geteTicketId() {
-        return eTicketId;
+    public FFNCCIdenitfier getFfncc() {
+        return ffncc;
     }
 
-    public void seteTicketId(long eTicketId) {
-        this.eTicketId = eTicketId;
+    public void setFfncc(FFNCCIdenitfier ffncc) {
+        this.ffncc = ffncc;
     }
 
     public Collection<Ticket> getTickets() {
@@ -48,5 +52,21 @@ public class Booking {
 
     public void setTickets(Collection<Ticket> tickets) {
         this.tickets = tickets;
+    }
+
+    public FlightRoute getFlightRoute() {
+        return flightRoute;
+    }
+
+    public void setFlightRoute(FlightRoute flightRoute) {
+        this.flightRoute = flightRoute;
+    }
+
+    public FlightRoute getReturnRoute() {
+        return returnRoute;
+    }
+
+    public void setReturnRoute(FlightRoute returnRoute) {
+        this.returnRoute = returnRoute;
     }
 }
