@@ -1,0 +1,10 @@
+contract/dto/PNRIdentifier.class
+contract/dto/Airplane.class
+contract/dto/Airport.class
+contract/dto/Booking.class
+contract/interfaces/RMIInterface.class
+contract/dto/Ticket.class
+contract/dto/FFNCCIdenitfier.class
+contract/dto/FlightRoute.class
+contract/dto/Passenger.class
+contract/dto/Flight.class
