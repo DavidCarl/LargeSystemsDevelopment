@@ -1,0 +1,11 @@
+```
+<settings>
+  <servers>
+    <server>
+      <id>github</id>
+      <username>davidcarl</username>
+      <password>here</password>
+    </server>
+  </servers>
+</settings>
+```
