@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e11fa009-c4d0-4594-abce-a2ab60f5a10d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LargeSystemDevelopment-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/LargeSystemDevelopment-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mvn-repo/LargeSystemDevelopment/LargeSystemDevelopment/1.0-SNAPSHOT/LargeSystemDevelopment-1.0-20190930.091237-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mvn-repo/LargeSystemDevelopment/LargeSystemDevelopment/1.0-SNAPSHOT/LargeSystemDevelopment-1.0-20190930.091237-1.jar.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mvn-repo/LargeSystemDevelopment/LargeSystemDevelopment/1.0-SNAPSHOT/LargeSystemDevelopment-1.0-20190930.091237-1.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mvn-repo/LargeSystemDevelopment/LargeSystemDevelopment/1.0-SNAPSHOT/LargeSystemDevelopment-1.0-20190930.091237-1.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mvn-repo/LargeSystemDevelopment/LargeSystemDevelopment/1.0-SNAPSHOT/LargeSystemDevelopment-1.0-20190930.091237-1.pom.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mvn-repo/LargeSystemDevelopment/LargeSystemDevelopment/1.0-SNAPSHOT/LargeSystemDevelopment-1.0-20190930.091237-1.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mvn-repo/LargeSystemDevelopment/LargeSystemDevelopment/1.0-SNAPSHOT/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/mvn-repo/LargeSystemDevelopment/LargeSystemDevelopment/1.0-SNAPSHOT/maven-metadata.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mvn-repo/LargeSystemDevelopment/LargeSystemDevelopment/1.0-SNAPSHOT/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/target/mvn-repo/LargeSystemDevelopment/LargeSystemDevelopment/1.0-SNAPSHOT/maven-metadata.xml.md5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mvn-repo/LargeSystemDevelopment/LargeSystemDevelopment/1.0-SNAPSHOT/maven-metadata.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/target/mvn-repo/LargeSystemDevelopment/LargeSystemDevelopment/1.0-SNAPSHOT/maven-metadata.xml.sha1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mvn-repo/LargeSystemDevelopment/LargeSystemDevelopment/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/mvn-repo/LargeSystemDevelopment/LargeSystemDevelopment/maven-metadata.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mvn-repo/LargeSystemDevelopment/LargeSystemDevelopment/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/target/mvn-repo/LargeSystemDevelopment/LargeSystemDevelopment/maven-metadata.xml.md5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mvn-repo/LargeSystemDevelopment/LargeSystemDevelopment/maven-metadata.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/target/mvn-repo/LargeSystemDevelopment/LargeSystemDevelopment/maven-metadata.xml.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/contract/interfaces/RMIInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contract/interfaces/BeanInterface.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,57 +19,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/contract/dto/Airplane.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/contract/dto/Airport.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/contract/interfaces/BeanInterface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/contract/dto/Booking.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/contract/interfaces/RMIInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/contract/dto/FlightRoute.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="153">
+              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -108,6 +51,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/contract/implementation.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/contract/interfaces/RMIInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/contract/interfaces/BeanInterface.java" />
       </list>
     </option>
   </component>
@@ -130,7 +75,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,6 +111,24 @@
             <path>
               <item name="LargeSystemDevelopment" type="b2602c69:ProjectViewProjectNode" />
               <item name="LargeSystemsDevelopment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="contract" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LargeSystemDevelopment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LargeSystemsDevelopment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="contract" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LargeSystemDevelopment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LargeSystemsDevelopment" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -180,6 +142,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -188,7 +151,10 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -213,18 +179,20 @@
       <option name="presentableId" value="Default" />
       <updated>1569833099050</updated>
       <workItem from="1569833100675" duration="2403000" />
-      <workItem from="1570431050169" duration="282000" />
+      <workItem from="1570431050169" duration="997000" />
+      <workItem from="1571645975795" duration="124000" />
+      <workItem from="1573112199055" duration="194000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2685000" />
+    <option name="totallyTimeSpent" value="3718000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="16" y="19" width="1568" height="865" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25295663" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28580815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -281,13 +249,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/contract/interfaces/RMIInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/contract/dto/FlightRoute.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -297,10 +258,88 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        <state relative-caret-position="336">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/contract/interfaces/BeanInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
