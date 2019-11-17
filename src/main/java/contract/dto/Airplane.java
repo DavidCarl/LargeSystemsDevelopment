@@ -2,7 +2,7 @@ package contract.dto;
 
 public class Airplane {
     private int capacity;
-    private String iata;
+    private String iata; // number of the carrier
 
     public Airplane(int capacity, String iata) {
         this.capacity = capacity;
