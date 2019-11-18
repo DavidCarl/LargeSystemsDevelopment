@@ -8,14 +8,16 @@ import java.util.Date;
 
 @Remote
 public interface BeanInterface {
+    //User
+    User user(User user);
     // Entering search critireas will return flight offers. If oneWay then no Date end should be provided.
-    Collection<FlightOffer> getFlightOffers(Date start, Date end, String depIata, String destIata, boolean oneWay);
+    Collection<FlightOffer> getFlightOffers(User user, Date start, Date end, String depIata, String destIata, boolean oneWay);
     // Make a booking on the chosen flight suggestion.
-    Booking makeBooking(FlightOffer offer, FFNCCIdenitfier ffncc, Collection<Passenger> passengers);
+    Booking makeBooking(User user, FlightOffer offer, FFNCCIdenitfier ffncc, Collection<Passenger> passengers);
     // Retrieve booking info from Passenger Name Record
-    Booking getBooking(PNRIdentifier pnr);
+    Booking getBooking(User user, PNRIdentifier pnr);
     // Cancel booking with Passenger Name Record
-    boolean cancelBooking(PNRIdentifier pnr);
+    boolean cancelBooking(User user, PNRIdentifier pnr);
     // Hello backend method
     String whoAmI(String message);
 }

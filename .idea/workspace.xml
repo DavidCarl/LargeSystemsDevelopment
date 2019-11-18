@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e11fa009-c4d0-4594-abce-a2ab60f5a10d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/contract/dto/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contract/dto/Airplane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/contract/dto/FlightRoute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contract/dto/FlightRoute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/contract/dto/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contract/dto/Ticket.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/contract/interfaces/BeanInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contract/interfaces/BeanInterface.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -91,6 +87,7 @@
       <workItem from="1573465648771" duration="25000" />
       <workItem from="1573470536438" duration="2082000" />
       <workItem from="1574017746150" duration="2984000" />
+      <workItem from="1574076816906" duration="63000" />
     </task>
     <servers />
   </component>
@@ -102,7 +99,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
