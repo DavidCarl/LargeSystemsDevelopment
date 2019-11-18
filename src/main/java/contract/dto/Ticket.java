@@ -1,23 +1,23 @@
 package contract.dto;
 
 public class Ticket {
-    private String passengarName;
+    private Passenger passenger;
     private Flight flight;
 
-    public Ticket(String name, Flight flight) {
-        this.passengarName = name;
+    public Ticket(Passenger passenger, Flight flight) {
+        this.passenger = passenger;
         this.flight = flight;
     }
 
     public Ticket() {
     }
 
-    public String getPassengarName() {
-        return passengarName;
+    public Passenger getPassenger() {
+        return passenger;
     }
 
-    public void setPassengarName(String passengarName) {
-        this.passengarName = passengarName;
+    public void setPassenger(Passenger passenger) {
+        this.passenger = passenger;
     }
 
     public Flight getFlight() {
