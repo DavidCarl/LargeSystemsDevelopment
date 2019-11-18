@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e11fa009-c4d0-4594-abce-a2ab60f5a10d" name="Default Changelist" comment="">
+    <list default="true" id="a437254c-4b6f-4f28-b9c9-ad61083cba50" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/contract/interfaces/BeanInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contract/interfaces/BeanInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LargeSystemDevelopment.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LargeSystemDevelopment-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/LargeSystemDevelopment-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/contract/dto/FlightRoute.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contract/dto/FlightRoute.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/contract/dto/Ticket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contract/dto/Ticket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/contract/interfaces/BeanInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contract/interfaces/BeanInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,50 +23,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>url</find>
-      <find>usern</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectId" id="1RXyMRpIs1L6yxAO5fNbr5JMJeY" />
+  <component name="ProjectId" id="1TmuYUvJvGm7yLWmdrag9nUJ8qy" />
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -73,21 +49,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e11fa009-c4d0-4594-abce-a2ab60f5a10d" name="Default Changelist" comment="" />
-      <created>1569833099050</created>
+      <changelist id="a437254c-4b6f-4f28-b9c9-ad61083cba50" name="Default Changelist" comment="" />
+      <created>1574077639762</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569833099050</updated>
-      <workItem from="1569833100675" duration="2403000" />
-      <workItem from="1570431050169" duration="997000" />
-      <workItem from="1571645975795" duration="124000" />
-      <workItem from="1573112199055" duration="781000" />
-      <workItem from="1573113195213" duration="86000" />
-      <workItem from="1573388462588" duration="79000" />
-      <workItem from="1573465648771" duration="25000" />
-      <workItem from="1573470536438" duration="2082000" />
-      <workItem from="1574017746150" duration="2984000" />
-      <workItem from="1574076816906" duration="63000" />
+      <updated>1574077639762</updated>
+      <workItem from="1574077642251" duration="898000" />
+      <workItem from="1574079098034" duration="255000" />
     </task>
     <servers />
   </component>

@@ -1,10 +1,12 @@
-contract/dto/PNRIdentifier.class
-contract/dto/Airplane.class
 contract/dto/Airport.class
+contract/dto/Airplane.class
+contract/dto/PNRIdentifier.class
 contract/dto/Booking.class
 contract/dto/Ticket.class
-contract/interfaces/BeanInterface.class
 contract/dto/FFNCCIdenitfier.class
+contract/interfaces/BeanInterface.class
+contract/dto/User.class
 contract/dto/FlightRoute.class
 contract/dto/Passenger.class
+contract/dto/FlightOffer.class
 contract/dto/Flight.class
