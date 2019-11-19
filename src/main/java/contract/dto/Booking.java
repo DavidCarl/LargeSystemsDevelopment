@@ -1,8 +1,9 @@
 package contract.dto;
 
+import java.io.Serializable;
 import java.util.Collection;
 
-public class Booking {
+public class Booking implements Serializable {
     private PNRIdentifier pnr;
     private double price;
     private FFNCCIdenitfier ffncc;

@@ -1,8 +1,9 @@
 package contract.dto;
 
+import java.io.Serializable;
 import java.util.Date;
 
-public class Flight {
+public class Flight implements Serializable {
     private long id;
     private Date depDate;
     private Date arrDate;

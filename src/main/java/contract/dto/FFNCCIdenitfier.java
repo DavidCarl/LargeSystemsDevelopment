@@ -1,6 +1,8 @@
 package contract.dto;
 
-public class FFNCCIdenitfier {
+import java.io.Serializable;
+
+public class FFNCCIdenitfier implements Serializable {
     private String ffcc;
 
     public FFNCCIdenitfier(String ffcc) {

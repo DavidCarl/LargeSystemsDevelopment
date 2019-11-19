@@ -1,8 +1,9 @@
 package contract.dto;
 
+import java.io.Serializable;
 import java.util.Collection;
 
-public class FlightRoute {
+public class FlightRoute implements Serializable {
     private boolean directFlight;
     private Collection<Flight> flights;
 

@@ -1,6 +1,8 @@
 package contract.dto;
 
-public class Ticket {
+import java.io.Serializable;
+
+public class Ticket implements Serializable {
     private Passenger passenger;
     private Flight flight;
 

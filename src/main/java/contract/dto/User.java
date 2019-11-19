@@ -1,6 +1,8 @@
 package contract.dto;
 
-public class User {
+import java.io.Serializable;
+
+public class User implements Serializable {
     int userId;
     int agencyNumber;
     String userName;

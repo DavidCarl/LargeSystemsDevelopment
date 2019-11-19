@@ -1,8 +1,9 @@
 package contract.dto;
 
+import java.io.Serializable;
 import java.util.Date;
 
-public class Passenger {
+public class Passenger implements Serializable {
     private String firstName;
     private String lastName;
     private Date dob;

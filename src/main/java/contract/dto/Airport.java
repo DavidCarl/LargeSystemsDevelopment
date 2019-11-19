@@ -1,8 +1,9 @@
 package contract.dto;
 
+import java.io.Serializable;
 import java.util.TimeZone;
 
-public class Airport {
+public class Airport implements Serializable {
     private TimeZone timeZone;
     private String iata;
     private String name;

@@ -1,12 +1,12 @@
-/home/dunkl/Desktop/lsd/LargeSystemsDevelopment/src/main/java/contract/dto/Passenger.java
-/home/dunkl/Desktop/lsd/LargeSystemsDevelopment/src/main/java/contract/dto/FlightRoute.java
-/home/dunkl/Desktop/lsd/LargeSystemsDevelopment/src/main/java/contract/dto/Airport.java
-/home/dunkl/Desktop/lsd/LargeSystemsDevelopment/src/main/java/contract/dto/FlightOffer.java
-/home/dunkl/Desktop/lsd/LargeSystemsDevelopment/src/main/java/contract/dto/User.java
-/home/dunkl/Desktop/lsd/LargeSystemsDevelopment/src/main/java/contract/dto/Booking.java
-/home/dunkl/Desktop/lsd/LargeSystemsDevelopment/src/main/java/contract/dto/PNRIdentifier.java
-/home/dunkl/Desktop/lsd/LargeSystemsDevelopment/src/main/java/contract/interfaces/BeanInterface.java
-/home/dunkl/Desktop/lsd/LargeSystemsDevelopment/src/main/java/contract/dto/FFNCCIdenitfier.java
-/home/dunkl/Desktop/lsd/LargeSystemsDevelopment/src/main/java/contract/dto/Flight.java
-/home/dunkl/Desktop/lsd/LargeSystemsDevelopment/src/main/java/contract/dto/Ticket.java
-/home/dunkl/Desktop/lsd/LargeSystemsDevelopment/src/main/java/contract/dto/Airplane.java
+/home/dunkl/Desktop/bean test/contract/LargeSystemsDevelopment/src/main/java/contract/dto/Airport.java
+/home/dunkl/Desktop/bean test/contract/LargeSystemsDevelopment/src/main/java/contract/dto/Passenger.java
+/home/dunkl/Desktop/bean test/contract/LargeSystemsDevelopment/src/main/java/contract/interfaces/BeanInterface.java
+/home/dunkl/Desktop/bean test/contract/LargeSystemsDevelopment/src/main/java/contract/dto/FFNCCIdenitfier.java
+/home/dunkl/Desktop/bean test/contract/LargeSystemsDevelopment/src/main/java/contract/dto/User.java
+/home/dunkl/Desktop/bean test/contract/LargeSystemsDevelopment/src/main/java/contract/dto/FlightRoute.java
+/home/dunkl/Desktop/bean test/contract/LargeSystemsDevelopment/src/main/java/contract/dto/FlightOffer.java
+/home/dunkl/Desktop/bean test/contract/LargeSystemsDevelopment/src/main/java/contract/dto/PNRIdentifier.java
+/home/dunkl/Desktop/bean test/contract/LargeSystemsDevelopment/src/main/java/contract/dto/Airplane.java
+/home/dunkl/Desktop/bean test/contract/LargeSystemsDevelopment/src/main/java/contract/dto/Booking.java
+/home/dunkl/Desktop/bean test/contract/LargeSystemsDevelopment/src/main/java/contract/dto/Flight.java
+/home/dunkl/Desktop/bean test/contract/LargeSystemsDevelopment/src/main/java/contract/dto/Ticket.java

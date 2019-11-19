@@ -1,6 +1,8 @@
 package contract.dto;
 
-public class FlightOffer {
+import java.io.Serializable;
+
+public class FlightOffer implements Serializable {
     private double price;
     private boolean oneWay;
     private FlightRoute outRoute;

@@ -1,6 +1,8 @@
 package contract.dto;
 
-public class PNRIdentifier {
+import java.io.Serializable;
+
+public class PNRIdentifier implements Serializable {
 
     private long pnr;
 

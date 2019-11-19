@@ -3,6 +3,7 @@ package contract.interfaces;
 import contract.dto.*;
 
 import javax.ejb.Remote;
+import java.io.Serializable;
 import java.util.Collection;
 import java.util.Date;
 

@@ -1,6 +1,8 @@
 package contract.dto;
 
-public class Airplane {
+import java.io.Serializable;
+
+public class Airplane implements Serializable {
     private int capacity;
     private String iata; // number of the carrier
 
