@@ -4,12 +4,12 @@
   <servers>
     <server>
       <username>admin</username>
-      <password>AP5epBmEhhxbB51YTsLMYJLJxis</password>
+      <password>AP9Hnmqw1cuRAqQxTKoUGoqJA8a</password>
       <id>central</id>
     </server>
     <server>
       <username>admin</username>
-      <password>AP5epBmEhhxbB51YTsLMYJLJxis</password>
+      <password>AP9Hnmqw1cuRAqQxTKoUGoqJA8a</password>
       <id>snapshots</id>
     </server>
   </servers>
@@ -54,3 +54,4 @@
     <activeProfile>artifactory</activeProfile>
   </activeProfiles>
 </settings>
+
